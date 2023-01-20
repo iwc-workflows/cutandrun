@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2022-11-29T12:22:16.778376",
+            "datePublished": "2023-01-20T14:55:06.084507",
             "hasPart": [
                 {
                     "@id": "cutandrun.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/cutandrun",
-            "version": "0.2"
+            "version": "0.3"
         },
         {
             "@id": "#galaxy",
@@ -138,7 +138,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.2"
+            "engineVersion": ">=0.75.3"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
